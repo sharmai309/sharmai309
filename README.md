@@ -2,9 +2,9 @@
 
 # Hi, I'm Isha! 👋
 
-- 💼 Senior Data Scientist | Credit Risk & Fraud Detection
-- 🎓 Purdue Applied Generative AI Specialization
-- 🤖 Passionate about AI & Machine Learning
+- 💼 Data Scientist | AI Engineer | Python
+- 🎓 Purdue Applied Generative AI Specialization  
+- 🤖 AI/ML · Always learning
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,9 +14,6 @@
 
 ## 📊 GitHub Stats
 ![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmai309&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sharmai309&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmai309&layout=compact&theme=tokyonight&hide_border=true)
