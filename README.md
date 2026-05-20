@@ -12,8 +12,4 @@
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sharmai309&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-## 📈 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmai309&layout=compact&theme=tokyonight" alt="Top Languages" />
