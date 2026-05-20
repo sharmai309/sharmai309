@@ -13,4 +13,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmai309&show_icons=true&theme=tokyonight)
+![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmai309&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=sharmai309&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+## 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmai309&layout=compact&theme=tokyonight&hide_border=true)
