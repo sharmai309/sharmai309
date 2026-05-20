@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sharmai309&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sharmai309&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 # Hi, I'm Isha! 👋
 
